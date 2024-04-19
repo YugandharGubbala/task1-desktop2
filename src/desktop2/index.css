@@ -1,0 +1,113 @@
+.header{
+    width: 100vw;
+height: 94px;
+gap: 0px;
+opacity: 0px;
+background: rgba(255, 247, 226, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.headerimg{
+    width: 75%;
+}
+.page2{
+    background: rgba(234, 242, 234, 1);
+    height: 200px;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input1{
+    height: 34px;
+    width: 170px;
+    background-color: #ffffff;
+    margin-right: 20px;
+}
+.input2{
+    height: 34px;
+    width: 290px;
+    background-color: #ffffff;
+    
+}
+.filters{
+    background-color: rgb(202, 201, 201);
+    height: 33px;
+    width: 140px;
+    margin-left: 20px;
+}
+.filtercontainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.options{
+    background-color:  rgba(234, 242, 234, 1);
+    height: 31px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+
+}
+.optionscontainer{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-right: 80px;
+    margin-bottom: 23px;
+    
+}
+.booking{
+    background: rgba(255, 247, 226, 1);
+    height: 450px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+.photo{
+    height: 100px;
+    width: 100px;
+}
+.consultion{
+    border: 1px solid rgba(220, 220, 220, 1);
+    height: 45px;
+    width: 110px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-right: 5px;
+}
+.consultioncontainer{
+    display: flex;
+}
+.bookcontainer{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.btn1{
+    height: 40px;
+    width: 220px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border: 1px solid green;
+    margin: 5px;
+}
+.btn2{
+    height: 40px;
+    width: 220px;
+    background-color: green;
+    border-radius: 7px;
+    border: 1px solid green;
+    margin: 5px;
+}
