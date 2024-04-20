@@ -5,9 +5,38 @@ gap: 0px;
 opacity: 0px;
 background: rgba(255, 247, 226, 1);
 display: flex;
-justify-content: center;
+justify-content: space-around;
 align-items: center;
 }
+.home{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+.login{
+    height: 38px;
+    width: 120px;
+    background-color: #ffffff;
+    color: green;
+    border-radius: 7px;
+    border: 1px solid green;
+    margin-right: 5px;
+}
+.signin{
+    height: 38px;
+    width: 130px;
+    background-color: green;
+    color: #ffffff;
+    border-radius: 7px;
+    border: 1px solid green;
+    margin-right: 5px;
+}
+.amratam{
+ color: green;
+ font-weight: 600;
+}
+
 .headerimg{
     width: 75%;
 }
